@@ -1,4 +1,4 @@
-# SQL Injection Prevention Demo - ASP.NET Core API
+# Prevenção de ataques de SQL Injection - TCC 2025 - ASP.NET Core API
 
 Demonstração completa de técnicas de prevenção de SQL Injection em uma API ASP.NET Core.
 
