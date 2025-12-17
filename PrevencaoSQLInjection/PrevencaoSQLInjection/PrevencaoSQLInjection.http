@@ -1,0 +1,11 @@
+@PrevencaoSQLInjection_HostAddress = http://localhost:5259
+
+GET {{PrevencaoSQLInjection_HostAddress}}/todos/
+Accept: application/json
+
+###
+
+GET {{PrevencaoSQLInjection_HostAddress}}/todos/1
+Accept: application/json
+
+###
